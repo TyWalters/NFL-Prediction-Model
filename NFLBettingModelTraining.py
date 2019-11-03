@@ -26,7 +26,7 @@ import xgboost as xgb
 import pickle
 import os
 
-file_path = os.path.dirname(os.path.realpath("__file__"))
+file_path = os.path.dirname(os.path.abspath("__file__"))
 
 # # Loading and Cleaning Data
 # loading CSV files downloaded from Kaggle
