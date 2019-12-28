@@ -1,2 +1,2 @@
 # NFL-Prediction-Model
- Model created for FiveThirtyEight Model Prediction
+ Model created for FiveThirtyEight Forecast Competition
